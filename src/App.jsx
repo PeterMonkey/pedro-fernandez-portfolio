@@ -2,6 +2,7 @@
 import {
   AiFillTwitterCircle,
   AiFillLinkedin,
+  AiFillGithub
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
@@ -54,6 +55,9 @@ export default function Home() {
               </a>
               <a href="https://www.linkedin.com/in/pedro-enrique-fern%C3%A1ndez-araujo-539394207/" target="_blank" rel="noreferrer">
                 <AiFillLinkedin />
+              </a>
+              <a href="https://github.com/PeterMonkey" target="_blank" rel="noreferrer">
+                <AiFillGithub />
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-72 h-72 relative border overflow-hidden mt-16 md:h-80 md:w-80">
