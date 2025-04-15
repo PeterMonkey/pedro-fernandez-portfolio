@@ -91,7 +91,7 @@ export default function Home() {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+            <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
                 </div>
@@ -101,7 +101,7 @@ export default function Home() {
               <div className="grid grid-cols-3 gap-6 mt-8">
                 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+            <img src="https://devicon-website.vercel.app/api/nestjs/plain.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -140,7 +140,7 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1 shadow-xl">
-            <a href="https://rick-and-morty-ifys4qn95-petermonkey.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://www.conectandoarg.com/" target="_blank" rel="noreferrer">
               <img
                 className="rounded-lg object-contain w-full h-auto transition duration-500 transform hover:scale-110 hover:cursor-pointer"
                 width={"100%"}
