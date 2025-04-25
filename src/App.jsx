@@ -28,7 +28,7 @@ export default function Home() {
                   className=" cursor-pointer text-2xl"
                 />
               </li>
-              <li>
+              {/* <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="https://drive.google.com/file/d/1IMRmKPsko-xWu6q1Jbju1H2Feoy1qUae/view?usp=share_link"
@@ -36,7 +36,7 @@ export default function Home() {
                 >
                   Resume
                 </a>
-              </li>
+              </li> */}
             </ul>
           </nav>
           <div className="text-center p-10 py-10">
@@ -140,7 +140,7 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1 shadow-xl">
-            <a href="https://www.conectandoarg.com/" target="_blank" rel="noreferrer">
+            <a href="https://s5-06-mern-git-dev-itenseno.vercel.app/" target="_blank" rel="noreferrer">
               <img
                 className="rounded-lg object-contain w-full h-auto transition duration-500 transform hover:scale-110 hover:cursor-pointer"
                 width={"100%"}
@@ -151,7 +151,7 @@ export default function Home() {
               </a>
             </div>
             <div className="basis-1/3 flex-1 shadow-xl">
-            <a href="https://s5-06-mern-git-dev-itenseno.vercel.app/" target="_blank" rel="noreferrer">
+            <a href="https://www.conectandoarg.com/" target="_blank" rel="noreferrer">
               <img
                 className="rounded-lg object-contain w-full h-auto transition duration-500 transform hover:scale-110 hover:cursor-pointer"
                 width={"100%"}
